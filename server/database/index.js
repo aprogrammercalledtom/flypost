@@ -9,7 +9,7 @@ export default new Sequelize(url, {
   dialect,
   dialectOptions: {
     ssl: {
-      rejectUnauthorized: false 
+      "rejectUnauthorized": false 
     }
   },
   logging: msg => {
