@@ -7,8 +7,8 @@ const { url, dialect } = config[process.env.NODE_ENV]
 
 export default new Sequelize(url, {
   dialect,
-  dialectOptions: {
-    ssl: {
+  "dialectOptions": {
+    "ssl": {
       "rejectUnauthorized": false 
     }
   },
