@@ -9,7 +9,6 @@ export default new Sequelize(url, {
   dialect,
   dialectOptions: {
     ssl: {
-      require: true,
       rejectUnauthorized: false 
     }
   },
