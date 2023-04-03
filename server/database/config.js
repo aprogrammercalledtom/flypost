@@ -23,11 +23,5 @@ module.exports = {
     url,
     dialect,
     timezone,
-    "dialectOptions": {
-      "ssl": {
-        "require": true,
-        "rejectUnauthorized": false
-      }
-    }
   },
 }
