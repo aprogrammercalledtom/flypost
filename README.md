@@ -1,6 +1,8 @@
-# HOFFNUNG 3000
+# flyPost
 
-Platform for decentralized, anonymized, self-curated festivals.
+Experimental platform for decentralized, self-curated listings.
+
+Based on Hoffnung3000 - https://hoffnung3000.de/installation.html
 
 ```javascript
 Conversation.belongsToMany(Animal, {
@@ -10,39 +12,20 @@ Conversation.belongsToMany(Animal, {
 })
 ```
 
-## Features
-
-* Register `resources` (skills, items, etc.) and make them available to other users
-* Create `places` (address, gps position or *virtual*) and define time slots, so other users can organize events there
-* Organize `events` in `places` and use `resources` of others to realize them
-* Users can be anonymized with randomly generated [animal avatars](https://github.com/adzialocha/random-animal-name-generator/)
-* Random meetings with random participants in random places
-* Built-in messenger and activity stream
-* `events` and `places` can be private (not visible to audience) or public
-* [.gif-stream](https://github.com/adzialocha/gif-stream/blob/master/example.gif) documentation tool
-
-## How can I use this platform?
-
-Check out the [Handbook](https://hoffnung3000.de) to get started.
 
 ## Requirements
 
 * Server with NodeJS environment (`<= 16`)
 * PostgreSQL database
 * Mail-Server (SMTP)
-* PayPal Account for payment (optional)
-* AWS S3 Cloud Storage (optional)
-* [gif-stream-server](https://github.com/adzialocha/gif-stream-server) (optional)
 
-## Development
 
-Read the [Handbook](https://hoffnung3000.de) for more information about setup, contributions, deployment of HOFFNUNG 3000.
 
-## About
+## About HOFFNUNG 3000 
 
 HOFFNUNG 3000 was developed for a self-curated festival for music, art and theory organized by [BLATT 3000](https://blatt3000.de) and [Klangkeller](http://www.klangkeller.net/), 24.-26.08.17 in Berlin - HOFFNUNG 3000 is an experiment in social, artistic and theoretical collaboration. Feel free to use the platform for your own festivals. :panda_face:
 
-## Projects using the platform
+## Projects using the HOFFNUNG 3000 platform
 
 * https://blatt3000.de/ (HOFFNUNG 3000 2017, Berlin DE)
 * https://festival.antiuniversity.org/ (ANTI UNIVERSITY 2020 & 2021, London UK)
