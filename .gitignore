@@ -7,3 +7,4 @@ dist
 static
 uploads
 webpack-assets.json
+*.DS_Store
