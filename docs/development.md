@@ -4,7 +4,7 @@ title: Development
 order: 4
 ---
 
-HOFFNUNG 3000 is an NodeJS `express` server hosting a `react` application which communicates with the server API.
+ is an NodeJS `express` server hosting a `react` application which communicates with the server API.
 
 ## Project structure
 
@@ -38,7 +38,7 @@ npm run db:seed:create
 
 ## Building assets
 
-HOFFNUNG 3000 uses *webpack* for bundling JavaScript and SCSS assets.
+ uses *webpack* for bundling JavaScript and SCSS assets.
 
 ```
 npm run assets:watch // for development
@@ -65,7 +65,7 @@ npm run serve
 
 ## Translation files
 
-Static page content can be changed via the admin panel in HOFFNUNG 3000. Email texts can be changed in `server/mails/` and translations in `common/locales`.
+Static page content can be changed via the admin panel in . Email texts can be changed in `server/mails/` and translations in `common/locales`.
 
 ## Log levels
 
