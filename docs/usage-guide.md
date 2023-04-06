@@ -11,7 +11,7 @@ order: 3
 
 ### Overview
 
-HOFFNUNG 3000 consists of two panels on each side which help you to navigate through the platform:
+Flypost consists of two panels on each side which help you to navigate through the platform:
 
 * **Menu** from here you can reach all important pages, the [ticket sales for visitors](#get-a-visitor-ticket) and [tools for self-curation](#self-curation), click on the menu button in the upper left corner to open it
 * **Sidebar** contains all social features like the [activity stream](#activity-stream), your [message inbox](#inbox-and-messages), the [random meeting tool](#random-meetings) or buttons to *log out* or to [change your profile](#change-profile). You can [register as a participant](#register-as-a-participant) when you are not logged in yet. Click on the round button in the upper right corner to expand it
@@ -20,18 +20,18 @@ HOFFNUNG 3000 consists of two panels on each side which help you to navigate thr
 
 ### Roles
 
-Users can have four different roles on HOFFNUNG 3000:
+Users can have four different roles on flyPost:
 
-* **Unregistered guests** see a calendar overview and all basic informations
-* **Ticket owners / visitors** have access to the calendar and addresses of all public events
-* **Participants** have access to all public and private events. Can use all tools to create and share resources, places and events. They can write messages to each other, see the activity stream and use the random meetings tool
+* **Unregistered guests** see a calendar overview and all basic information
+* **Viewers** have access to their calendar 
+* **Pposters** have access to their calendars and can post and highlight events
 * **Admins** have access to the admin panel to create, update and delete users, change permissions and customize the platform
 
 ### Sign up
 
 #### Register as a participant
 
-Open the right sidebar and click `Register as participant` for sign up if you want to contribute to the festival. You might be asked to read a text and watch a video before you can proceed to get yourself familiar with the setting. Fill out all the required information and proceed to the checkout.
+Open the right sidebar and click `Register as poster` for sign up if you want to contribute to the festival. You might be asked to read a text and watch a video before you can proceed to get yourself familiar with the setting. Fill out all the required information and proceed to the checkout.
 
 ![Register as a participant](/images/registration.png)
 

@@ -1,12 +1,11 @@
 {
-  "name": "hoffnung3000",
-  "version": "3.1.2",
-  "description": "Platform for anonymous, decentralized and self-curated festivals",
+  "name": "flypost",
+  "version": "1",
+  "description": "Platform for anonymous, decentralized and self-curated listings",
   "main": "server/index.js",
   "private": true,
   "contributors": [
-    "adzialocha",
-    "sandreae"
+    "aprogrammercalledtom"
   ],
   "license": "AGPL-3.0",
   "engines": {
@@ -38,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/adzialocha/hoffnung3000.git"
+    "url": "git://github.com/aprogrammercalledtom/flypost/"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
